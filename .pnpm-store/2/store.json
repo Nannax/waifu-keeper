@@ -1,0 +1,203 @@
+{
+	"registry.npmjs.org/chalk/2.4.0": [
+		"/app"
+	],
+	"registry.npmjs.org/ansi-styles/3.2.1": [
+		"/app"
+	],
+	"registry.npmjs.org/color-convert/1.9.1": [
+		"/app"
+	],
+	"registry.npmjs.org/color-name/1.1.3": [
+		"/app"
+	],
+	"registry.npmjs.org/escape-string-regexp/1.0.5": [
+		"/app"
+	],
+	"registry.npmjs.org/supports-color/5.4.0": [
+		"/app"
+	],
+	"registry.npmjs.org/has-flag/3.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/discord.js/11.3.2": [
+		"/app"
+	],
+	"registry.npmjs.org/long/4.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/prism-media/0.0.2": [
+		"/app"
+	],
+	"registry.npmjs.org/snekfetch/3.6.4": [
+		"/app"
+	],
+	"registry.npmjs.org/tweetnacl/1.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/ws/4.1.0": [
+		"/app"
+	],
+	"registry.npmjs.org/async-limiter/1.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/safe-buffer/5.1.1": [
+		"/app"
+	],
+	"registry.npmjs.org/enmap/2.1.1": [
+		"/app"
+	],
+	"registry.npmjs.org/express/4.16.3": [
+		"/app"
+	],
+	"registry.npmjs.org/accepts/1.3.5": [
+		"/app"
+	],
+	"registry.npmjs.org/mime-types/2.1.18": [
+		"/app"
+	],
+	"registry.npmjs.org/mime-db/1.33.0": [
+		"/app"
+	],
+	"registry.npmjs.org/negotiator/0.6.1": [
+		"/app"
+	],
+	"registry.npmjs.org/array-flatten/1.1.1": [
+		"/app"
+	],
+	"registry.npmjs.org/body-parser/1.18.2": [
+		"/app"
+	],
+	"registry.npmjs.org/bytes/3.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/content-type/1.0.4": [
+		"/app"
+	],
+	"registry.npmjs.org/debug/2.6.9": [
+		"/app"
+	],
+	"registry.npmjs.org/ms/2.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/depd/1.1.2": [
+		"/app"
+	],
+	"registry.npmjs.org/http-errors/1.6.2": [
+		"/app"
+	],
+	"registry.npmjs.org/depd/1.1.1": [
+		"/app"
+	],
+	"registry.npmjs.org/inherits/2.0.3": [
+		"/app"
+	],
+	"registry.npmjs.org/setprototypeof/1.0.3": [
+		"/app"
+	],
+	"registry.npmjs.org/statuses/1.4.0": [
+		"/app"
+	],
+	"registry.npmjs.org/iconv-lite/0.4.19": [
+		"/app"
+	],
+	"registry.npmjs.org/on-finished/2.3.0": [
+		"/app"
+	],
+	"registry.npmjs.org/ee-first/1.1.1": [
+		"/app"
+	],
+	"registry.npmjs.org/qs/6.5.1": [
+		"/app"
+	],
+	"registry.npmjs.org/raw-body/2.3.2": [
+		"/app"
+	],
+	"registry.npmjs.org/unpipe/1.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/type-is/1.6.16": [
+		"/app"
+	],
+	"registry.npmjs.org/media-typer/0.3.0": [
+		"/app"
+	],
+	"registry.npmjs.org/content-disposition/0.5.2": [
+		"/app"
+	],
+	"registry.npmjs.org/cookie/0.3.1": [
+		"/app"
+	],
+	"registry.npmjs.org/cookie-signature/1.0.6": [
+		"/app"
+	],
+	"registry.npmjs.org/encodeurl/1.0.2": [
+		"/app"
+	],
+	"registry.npmjs.org/escape-html/1.0.3": [
+		"/app"
+	],
+	"registry.npmjs.org/etag/1.8.1": [
+		"/app"
+	],
+	"registry.npmjs.org/finalhandler/1.1.1": [
+		"/app"
+	],
+	"registry.npmjs.org/parseurl/1.3.2": [
+		"/app"
+	],
+	"registry.npmjs.org/fresh/0.5.2": [
+		"/app"
+	],
+	"registry.npmjs.org/merge-descriptors/1.0.1": [
+		"/app"
+	],
+	"registry.npmjs.org/methods/1.1.2": [
+		"/app"
+	],
+	"registry.npmjs.org/path-to-regexp/0.1.7": [
+		"/app"
+	],
+	"registry.npmjs.org/proxy-addr/2.0.3": [
+		"/app"
+	],
+	"registry.npmjs.org/forwarded/0.1.2": [
+		"/app"
+	],
+	"registry.npmjs.org/ipaddr.js/1.6.0": [
+		"/app"
+	],
+	"registry.npmjs.org/range-parser/1.2.0": [
+		"/app"
+	],
+	"registry.npmjs.org/send/0.16.2": [
+		"/app"
+	],
+	"registry.npmjs.org/destroy/1.0.4": [
+		"/app"
+	],
+	"registry.npmjs.org/mime/1.4.1": [
+		"/app"
+	],
+	"registry.npmjs.org/serve-static/1.13.2": [
+		"/app"
+	],
+	"registry.npmjs.org/setprototypeof/1.1.0": [
+		"/app"
+	],
+	"registry.npmjs.org/utils-merge/1.0.1": [
+		"/app"
+	],
+	"registry.npmjs.org/vary/1.1.2": [
+		"/app"
+	],
+	"registry.npmjs.org/moment/2.22.1": [
+		"/app"
+	],
+	"registry.npmjs.org/sqlite3/4.0.0": [
+		"/app"
+	],
+	"registry.npmjs.org/nan/2.9.2": [
+		"/app"
+	]
+}
