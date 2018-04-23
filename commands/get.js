@@ -8,22 +8,7 @@ exports.run = async (client, message, args) => {
     if (message.mentions.members.size === 0)
         return message.reply("Perfavore menziona un utente del server!");
   
-    let member = message.mentions.members.first();
-    
-    if (member.id == client.config.matto_id) {
-        message.channel.send({embed: {
-            title: "Found [" + member.displayName + " - DVX]",
-            url: client.config.matto_url,
-            color: 3447003,
-            image:{
-                url: client.config.matto_url,
-            },
-            footer:{
-                text: "Se l'immagine non viene caricata cliccare sul titolo."
-            }
-        }});
-        return;
-    }              
+    let member = message.mentions.members.first();          
     
     db.get("SELECT * FROM waifus WHERE user_id = ?", member.id, (err, row) => {
         if (err)
